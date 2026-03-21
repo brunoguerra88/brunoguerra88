@@ -6,11 +6,11 @@ Hello! This is my repository.
 My name is Bruno Guerra, and I work as a QA Engineer with over 10 years of experience in the field. I have experience in both manual and automated testing, ensuring the quality and reliability of applications. I am passionate about technology and constantly seek to improve my skills, contributing to the delivery of more robust and efficient products.
 
 <p align="left">
-  <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/bruno-stefano" target="_blank">
         <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/:badgeContent?logo=linkedin&logoSource=linkedin"
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
