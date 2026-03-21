@@ -6,6 +6,13 @@ Hello! This is my repository.
 My name is Bruno Guerra, and I work as a QA Engineer with over 10 years of experience in the field. I have experience in both manual and automated testing, ensuring the quality and reliability of applications. I am passionate about technology and constantly seek to improve my skills, contributing to the delivery of more robust and efficient products.
 
 <p align="left">
+    <a href="https://brunoguerra88.github.io/Portfolio/">
+        <img 
+            alt="Website" 
+            title="Visite meu website pessoal" 
+            src="https://img.shields.io/badge/Website-Visitar-EB2400?style=for-the-badge&logo=Google-Chrome&logoColor=white"
+        />
+    </a>
     <a href="https://www.linkedin.com/in/bruno-stefano">
         <img 
             alt="LinkedIn" 
@@ -13,25 +20,18 @@ My name is Bruno Guerra, and I work as a QA Engineer with over 10 years of exper
             src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://brunoguerra88.github.io/Portfolio/">
+    <a href="https://github.com/Larissakich?tab=followers">
         <img 
-            alt="Website" 
-            title="Visite meu website pessoal" 
-            src="https://img.shields.io/badge/Website-Visitar-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white"
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=6A0DAD&labelColor=5A189A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=FFEA00&style=for-the-badge&labelColor=FFD60A&logo=star&label=estrelas"
         />
     </a>
 </p>
