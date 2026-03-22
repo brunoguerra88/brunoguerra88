@@ -2,8 +2,11 @@
 
 **`QA Engineer`**
 
-Hello! This is my repository.
-My name is Bruno Guerra, and I work as a QA Engineer with over 10 years of experience in the field. I have experience in both manual and automated testing, ensuring the quality and reliability of applications. I am passionate about technology and constantly seek to improve my skills, contributing to the delivery of more robust and efficient products.
+Hello! Welcome to my repository.
+
+My name is Bruno Guerra, and I am a QA Engineer with over 10 years of experience in software testing.
+
+I have a strong background in both manual and automated testing, with a focus on ensuring the quality, reliability, and performance of applications. I am passionate about technology and continuously strive to improve my skills, contributing to the delivery of robust and efficient products.
 
 <p align="left">
     <a href="https://brunoguerra88.github.io/Portfolio/">
