@@ -10,28 +10,28 @@ My name is Bruno Guerra, and I work as a QA Engineer with over 10 years of exper
         <img 
             alt="Website" 
             title="Visite meu website pessoal" 
-            src="https://img.shields.io/badge/Website-Visitar-EB2400?style=for-the-badge&logo=Google-Chrome&logoColor=white"
+            src="https://img.shields.io/badge/Website-VISIT-EB2400?style=for-the-badge&logo=Google-Chrome&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/bruno-stefano">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/brunoguerra88?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=6A0DAD&labelColor=5A189A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/brunoguerra88?color=6A0DAD&labelColor=5A189A&style=for-the-badge&logo=github&label=FOLLOW&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/brunoguerra88?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=FFEA00&style=for-the-badge&labelColor=FFD60A&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/brunoguerra88?color=CA8A04&style=for-the-badge&labelColor=EAB308&logo=star&label=STARS"
         />
     </a>
 </p>
