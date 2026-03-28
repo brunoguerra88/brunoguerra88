@@ -102,7 +102,7 @@ I have a strong background in both manual and automated testing, with a focus on
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Statistics
 
 <p>
@@ -122,3 +122,4 @@ I have a strong background in both manual and automated testing, with a focus on
   />
 
 </p>
+-->
